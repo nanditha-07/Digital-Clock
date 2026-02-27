@@ -20,3 +20,5 @@ python digital_clock.py
 ## Technologies Used
 - Python
 - Tkinter
+## 📸 Preview
+![Clock Screenshot](screenshot.png)
